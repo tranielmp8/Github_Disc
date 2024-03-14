@@ -1,3 +1,8 @@
+Welcome to this basic Github Discussion App, you must have a github account in order to sign in and interact with every one. You are still able to view the discussions even if you don't have a github account.
+This app was created to help with my knowledge of NextJS. This app includes Postgres and NextJS with some installed applications. OAuth with next-auth is also included.
+Enjoy. thank you
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
